@@ -120,9 +120,9 @@ public class StartView extends JFrame implements ActionListener {
 				t.setEditable(false);
 				t.setText("The game consists of a main simulation 10x10 grid where the whole map of the Simpsons world"+"\n"+
 						"is taking place. You are responsible for managing the rescue units"+"\n"+
-						"to handle Aztec ìsimpsons buildingî and Simpon citizens suffering from the disasters that ensue"+"\n"+
-						"during game play throughout the whole map, applied on them by Mr. Burns ìHE IS TRYING"+"\n"+
-						"TO DESTROY THE WORLD !!î;"+"\n"+
+						"to handle Aztec ‚Äúsimpsons building‚Äù and Simpon citizens suffering from the disasters that ensue"+"\n"+
+						"during game play throughout the whole map, applied on them by Mr. Burns ‚ÄúHE IS TRYING"+"\n"+
+						"TO DESTROY THE WORLD !!‚Äù;"+"\n"+
 						"- An ambulance should respond to a simpson suffering from an injury Disaster"+"\n"+
 						"- A Disease Control Unit should respond to a simpson suffering from an infection Disaster."+"\n"+
 						"- An Evacuator is responsible for saving Simpsons inside a suffering Aztec."+"\n"+
